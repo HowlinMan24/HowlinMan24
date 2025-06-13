@@ -57,4 +57,4 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Engineer** specializi
 You can connect with me on [LinkedIn](www.linkedin.com/in/hristijan-mijalkov) or reach me through the following:
 
 - **Email**: hristijanmijalkov5@gmail.com
-- **Website**: 8ys9ssux7evv.trickle.host
+- **Website**: [8ys9ssux7evv.trickle.host](https://8ys9ssux7evv.trickle.host)
