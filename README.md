@@ -7,7 +7,7 @@
   <a href="https://www.dawnlearn.com"><img src="https://img.shields.io/badge/DAWN-E8A33D?style=for-the-badge&logoColor=white" alt="DAWN"></a>
 </p>
 
-I build production web apps and the backend services behind them, end to end: the API, the database, the frontend and the cloud it runs on. Four-plus years shipping fintech and enterprise software, including a banking platform used by 30+ client banks, and on-prem AI that keeps business data inside the company network.
+I build production web apps and the backend services behind them, end to end: the API, the database, the frontend and the cloud it runs on. Four-plus years shipping web systems across banking, SaaS, ERP integration, CMS and AI, including a banking platform used by multiple client banks, and on-prem AI that keeps business data inside the company network.
 
 ## Tech
 
